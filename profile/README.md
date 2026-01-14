@@ -26,4 +26,4 @@
 
 <p align="center"><i>Приватность начинается с простых шагов.</i></p>
 
-<p align="center"><b>Komaru VPN 2025</b></p>
+<p align="center"><b>Komaru VPN 2026</b></p>
